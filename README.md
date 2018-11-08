@@ -10,7 +10,7 @@ Current work:
 
 * Website set to mobile
 
-> ConanDW - setting image sizes. Beta Test.
+> ConanDW - setting image sizes. Beta Test. www.bitcoin1776.tk
 
 * Create memes and comparisons
 
