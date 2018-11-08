@@ -153,7 +153,7 @@ Inspirational Genesis
 
 Accomplishments
 
-* Social media registrations, various - August, 2018 - Keller Barnette
+* Social media registrations, various - August, 2018 - November, 2018 - Keller Barnette/Conan Destroyer of Worlds/Von Hell (Ownership Transfered)
 
 * Tested Bitcoin 1776 0.15.2 Software - August, 2018 - Keller Barnette
 
@@ -165,4 +165,5 @@ Accomplishments
 
 * Began regularly mining blocks - October, 2018 - Anonymous
 
-* Social media updates, various - November, 2018 - Keller Barnette 
+* Social media updates, various - November, 2018 - Keller Barnette
+
